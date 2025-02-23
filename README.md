@@ -4,9 +4,9 @@ Full-Stack Software Developer, with Product experience in seed stage startups. S
 
 
 Some of my favourite reads: 
-📖 Continuous Discovery Habits by Teresa Torres
-👩‍👩‍👧‍👧 The Mom Test by Rob Fitzpatrik
-📰 First Round Review 
+- 📖 Continuous Discovery Habits by Teresa Torres
+- 👩‍👩‍👧‍👧 The Mom Test by Rob Fitzpatrik
+- 📰 First Round Review 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annavanwingerden&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
