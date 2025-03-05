@@ -16,6 +16,12 @@ Full-Stack Software Developer, with Product experience in seed stage startups. S
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 
+<div align = "right">
+  
+#### Connect with me [on LinkedIn](https://www.linkedin.com/in/anna-van-wingerden/)
+</div>
+
+
 ## Public Github Stats  📊
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annavanwingerden&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -24,21 +30,16 @@ Full-Stack Software Developer, with Product experience in seed stage startups. S
 * Mongo DB to see how I can use my SQL skills to build better applications
 * React to create a more solid foundation of skills for next.js
 
+## Check out my recent projects
 
-<div align = "right">
-  
-#### Connect with me [via LinkedIn](https://www.linkedin.com/in/anna-van-wingerden/)
-</div>
+| [![Save The Dinos](https://github.com/user-attachments/assets/0df8debb-fbd2-4d00-ac3a-8deb51937c1c)](https://github.com/annavanwingerden/Save-The-Dinos) | [![LLG Meetup Page](https://github.com/user-attachments/assets/49e87e22-d836-4421-8688-c374a9f0f67d)](https://github.com/annavanwingerden/llg-meetup-page) |
+|---------------------------------|---------------------------------|
+| **Save The Dinos** - A fun side-scroller game! | **LLG Meetup Page** - A webpage for London Longboard Girls meetups! |
+
 
 ## 📚 Some of My Favorite Reads:
 📖 [**Continuous Discovery Habits**](https://www.amazon.com/dp/1736633309) – Teresa Torres  
 👩‍👩‍👧‍👧 [**The Mom Test**](https://www.momtestbook.com/) – Rob Fitzpatrick  
 📰 [**First Round Review**](https://review.firstround.com/)  
 
-
-## Check out some of my projects
-
-| [![Save The Dinos](https://github.com/user-attachments/assets/0df8debb-fbd2-4d00-ac3a-8deb51937c1c)](https://github.com/annavanwingerden/Save-The-Dinos) | [![LLG Meetup Page](https://github.com/user-attachments/assets/49e87e22-d836-4421-8688-c374a9f0f67d)](https://github.com/annavanwingerden/llg-meetup-page) |
-|---------------------------------|---------------------------------|
-| **Save The Dinos** - A fun side-scroller game! | **LLG Meetup Page** - A webpage for London Longboard Girls meetups! |
 
