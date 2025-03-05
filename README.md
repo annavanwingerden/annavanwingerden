@@ -30,7 +30,7 @@ Full-Stack Software Developer, with Product experience in seed stage startups. S
 
 | [![Save The Dinos](https://github.com/user-attachments/assets/0df8debb-fbd2-4d00-ac3a-8deb51937c1c)](https://github.com/annavanwingerden/Save-The-Dinos) | [![LLG Meetup Page](https://github.com/user-attachments/assets/49e87e22-d836-4421-8688-c374a9f0f67d)](https://github.com/annavanwingerden/llg-meetup-page) |
 |---------------------------------|---------------------------------|
-| **Save The Dinos** - A fun side-scroller game! | **LLG Meetup Page** - A dynamic event page for London Longboard Girls meetups! |
+| **Save The Dinos** - A fun side-scroller game using vanilla JS,html and css | **LLG Meetup Page** - A dynamic event page for London Longboard Girls meetups |
 
 ## Currently exploring 🚀
 * Tailwind.css to build modern designs without custom css
