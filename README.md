@@ -23,7 +23,7 @@ Full-Stack Software Developer, with Product experience in seed stage startups. S
 
 
 ## Public Github Stats  📊
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annavanwingerden&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annavanwingerden&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Check out my recent projects
