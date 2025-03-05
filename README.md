@@ -25,16 +25,17 @@ Full-Stack Software Developer, with Product experience in seed stage startups. S
 ## Public Github Stats  📊
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annavanwingerden&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently exploring 🚀
-* Tailwind.css to build modern designs without custom css
-* Mongo DB to see how I can use my SQL skills to build better applications
-* React to create a more solid foundation of skills for next.js
 
 ## Check out my recent projects
 
 | [![Save The Dinos](https://github.com/user-attachments/assets/0df8debb-fbd2-4d00-ac3a-8deb51937c1c)](https://github.com/annavanwingerden/Save-The-Dinos) | [![LLG Meetup Page](https://github.com/user-attachments/assets/49e87e22-d836-4421-8688-c374a9f0f67d)](https://github.com/annavanwingerden/llg-meetup-page) |
 |---------------------------------|---------------------------------|
 | **Save The Dinos** - A fun side-scroller game! | **LLG Meetup Page** - A webpage for London Longboard Girls meetups! |
+
+## Currently exploring 🚀
+* Tailwind.css to build modern designs without custom css
+* React to create a more solid foundation of skills for next.js
+* Mongo DB to see how I can use my SQL skills to build better applications
 
 
 ## 📚 Some of My Favorite Reads:
