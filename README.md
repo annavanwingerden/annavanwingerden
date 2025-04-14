@@ -34,7 +34,10 @@ Full-Stack Software Developer, with Product experience in seed stage startups. S
 ## Currently exploring 🚀
 * Tailwind.css to build modern designs without custom css
 * React to create a more solid foundation of skills for next.js
-* Mongo DB to see how I can use my SQL skills to build better applications
+* Supabase to see how I can use my SQL skills to build better applications
+
+# Hackathon builds
+* See how I used AI agents at the [Encode AI Hack in April 2025](https://github.com/annavanwingerden/Learnly-Encode_Hackathon_Submission)
 
 
 ## 📚 Some of My Favorite Reads:
