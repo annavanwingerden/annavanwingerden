@@ -25,8 +25,6 @@ Full-Stack Software Developer, with Product experience in seed stage startups. S
 ## Public Github Stats  📊
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annavanwingerden&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Github Ranking](https://github-readme-stats.vercel.app/api?username=annavanwingerden)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Check out my recent projects
 
 | [![Save The Dinos](https://github.com/user-attachments/assets/0df8debb-fbd2-4d00-ac3a-8deb51937c1c)](https://github.com/annavanwingerden/Save-The-Dinos) | [![LLG Meetup Page](https://github.com/user-attachments/assets/49e87e22-d836-4421-8688-c374a9f0f67d)](https://github.com/annavanwingerden/llg-meetup-page) |
