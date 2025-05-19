@@ -31,13 +31,14 @@ Full-Stack Software Developer, with Product experience in seed stage startups. S
 |---------------------------------|---------------------------------|
 | **Save The Dinos** - A fun side-scroller game using vanilla JS,html and css | **LLG Meetup Page** - A dynamic event page for London Longboard Girls meetups |
 
+# Hackathon builds
+* April 2025: See how I used AI agents at the [Encode AI Hack](https://github.com/annavanwingerden/Learnly-Encode_Hackathon_Submission)
+* May 2025: Check out my collaborate sudoku game app created using Temporal and Partykit for the [Web Dev Challenge](https://github.com/annavanwingerden/speed-sudoku)
+
 ## Currently exploring 🚀
 * Tailwind.css to build modern designs without custom css
 * React to create a more solid foundation of skills for next.js
 * Supabase to see how I can use my SQL skills to build better applications
-
-# Hackathon builds
-* See how I used AI agents at the [Encode AI Hack in April 2025](https://github.com/annavanwingerden/Learnly-Encode_Hackathon_Submission)
 
 
 ## 📚 Some of My Favorite Reads:
