@@ -3,7 +3,7 @@
 ## Hey there, I'm Anna 👋
 </div>
 
-Full-Stack Software Developer, with Product experience in seed stage startups. Strong analytical background with hands-on experience in building and scaling software products. Ability to work independently and as a supportive team member. Passionate about listening to the user, leveraging data-driven insights and problem-solving.
+Full-Stack Software Developer, with Product and Data experience in seed stage startups. Strong analytical background with hands-on experience in building and scaling software products. Ability to work independently and as a supportive team member. Passionate about listening to the user, leveraging data-driven insights and problem-solving.
 
 
 ## My Tech Stack 🛠
@@ -25,11 +25,13 @@ Full-Stack Software Developer, with Product experience in seed stage startups. S
 ## Public Github Stats  📊
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annavanwingerden&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Check out my recent projects
+## Recent projects
 
-| [![Save The Dinos](https://github.com/user-attachments/assets/0df8debb-fbd2-4d00-ac3a-8deb51937c1c)](https://github.com/annavanwingerden/Save-The-Dinos) | [![LLG Meetup Page](https://github.com/user-attachments/assets/49e87e22-d836-4421-8688-c374a9f0f67d)](https://github.com/annavanwingerden/llg-meetup-page) |
-|---------------------------------|---------------------------------|
-| **Save The Dinos** - A fun side-scroller game using vanilla JS,html and css | **LLG Meetup Page** - A dynamic event page for London Longboard Girls meetups |
+* Lovable but for mobile apps: Adorable 
+* iOS Apps in Swift & React Native (Expo)
+* Daily personalised podcast using an email server & Voice AI
+
+Currently focused on Voice AI.
 
 # Hackathon builds
 * April 2025: See how I used AI agents at the [Encode AI Hack](https://github.com/annavanwingerden/Learnly-Encode_Hackathon_Submission)
