@@ -27,19 +27,21 @@ Full-Stack Software Developer, with Product and Data experience in seed stage st
 
 ## Recent projects
 
-* Lovable but for mobile apps: Adorable 
-* iOS Apps in Swift & React Native (Expo)
-* Daily personalised podcast using an email server & Voice AI
+* Hugo AI Tour Guide (Swift): [![See on the app store](https://apps.apple.com/us/app/hugo-ai-london-tour-guide/id6752503735)
+* Freelancing for Mindful AI Journalling in React Native, Expo.
+* Daily personalised podcast using a python email server & Text-To-Speech APIs
 
-Currently focused on Voice AI.
 
 # Hackathon builds
+* Lovable but for mobile apps: Adorable 
+* Auracast (bluetooth one to many) setup for communities
+* Inbox Intel: Send AI-personalised outbound emails & campaigns
 * April 2025: See how I used AI agents at the [Encode AI Hack](https://github.com/annavanwingerden/Learnly-Encode_Hackathon_Submission)
 * May 2025: Check out my collaborate sudoku game app created using Temporal and Partykit for the [Web Dev Challenge](https://github.com/annavanwingerden/speed-sudoku)
 
 ## Currently exploring 🚀
-* Tailwind.css to build modern designs without custom css
-* React to create a more solid foundation of skills for next.js
+* Tailwind.css MCP server to build modern designs without touching CSS
+* React 
 * Supabase to see how I can use my SQL skills to build better applications
 
 
