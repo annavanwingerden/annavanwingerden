@@ -28,7 +28,6 @@ Full-Stack Software Developer, with Product and Data experience in seed stage st
 ## Recent projects
 
 * Hugo AI Tour Guide (Swift): [See on the app store](https://apps.apple.com/us/app/hugo-ai-london-tour-guide/id6752503735)
-* Freelancing for Mindful AI Journalling in React Native, Expo.
 * Daily personalised podcast using a python email server & Text-To-Speech APIs
 
 
